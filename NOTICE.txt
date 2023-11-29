@@ -1,1 +1,1 @@
-This repository is forked from https://github.com/asimpaudeluta/RAS-SONIC-v0, owner: Asim Paudel, consult the original repository for latest changes.
+This repository is forked from https://github.com/asimpaudeluta/RAS-SONIC-v0 with the explicit permission of Asim Paudel, consult Lisence for more information regarding use, consult the original repository for latest changes.
