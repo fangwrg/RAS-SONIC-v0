@@ -1,4 +1,5 @@
 # RAS-SONIC-v0
+##RAS-SONIC: HEC-RAS Seasonal or Non-stationary Integrated Calibration Package
 RAS-SONIC VBA Scripts for Excel, run with HECRAS 6.3.1, Excel and VBA (Version 2302, Build 16130.20694), compile the .py files to .exe with the same name in the same directory as your created .xlsm file.
 
 Excel Database:
